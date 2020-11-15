@@ -28,7 +28,6 @@
 
 
 // =================================================================================================================
-
 // *********** CONVERT TEMPERATURE ASSIGNMENT ************
 
 
@@ -40,9 +39,8 @@
 // temperature(20);
 
 // ==================================================================================================================
-
 // *********** FOR LOOP ASSIGNMENT ************
-// WRITING PROGRAM OF 5 TABLE
+// WRITING A PROGRAM OF 5 TABLE
 
 // for (let x=1; x<=10; x++) {
 //     let value = 5 * x; 
@@ -50,9 +48,8 @@
 // }
 
 // ==================================================================================================================
-
 // *********** WHILE LOOP ASSIGNMENT ************
-// WRITING PROGRAM OF FIRST 5 EVEN NUMBERS
+// WRITING A PROGRAM OF FIRST 5 EVEN NUMBERS
 
 // let x = 2;
 // while(x<=10){
@@ -63,7 +60,7 @@
 // ==================================================================================================================
 
 // *********** DO WHILE LOOP ASSIGNMENT ************
-// WRITING PROGRAM OF FIRST 5 EVEN NUMBERS
+// WRITING A PROGRAM PRINTING TEXT FOR MULTIPLE TIMES
 
 let x = 5;
 do{
